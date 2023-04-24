@@ -22,7 +22,9 @@ You can connect with me through:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+<a href="https://github.com/unravel2802/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unravel2802&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/unravel2802/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravel2802&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--
 **Unravel2802/Unravel2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
