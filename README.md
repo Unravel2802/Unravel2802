@@ -12,15 +12,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align ="center">  
-markdown_extensions:
-  - attr_list
-  <a href="[My linked profile](https://www.linkedin.com/in/hoang-ly-447180252/){:target="_blank"}">
+  <a href="https://www.linkedin.com/in/hoang-ly-447180252/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100010113933222{:target="_blank"}">
+  <a href="https://www.facebook.com/profile.php?id=100010113933222">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Faceobook Badge"/>
   </a>
-  <a href="https://www.instagram.com/justinnn_ly{:target="_blank"}/">
+  <a href="https://www.instagram.com/justinnn_ly/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
