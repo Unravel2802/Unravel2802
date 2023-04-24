@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Hoang 👋
+- :name_badge: You can also call me Justin
 - 🔭 I’m currently working on a chatbot that can detect human emotions
 - 🌱 I’m currently learning computer science in Umass Amherst
 - 👯 I’m looking to collaborate on do some researches on AI
