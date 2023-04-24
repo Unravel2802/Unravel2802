@@ -7,11 +7,14 @@
 - 📫 How to reach me: hoanglyquoc@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a League of Legends player:D
+
+markdown_extensions:
+  - attr_list
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align ="center">
-  <a href="(https://www.linkedin.com/in/hoang-ly-447180252/){:target="_blank"}">
+  <a href="[My linked profile](https://www.linkedin.com/in/hoang-ly-447180252/){:target="_blank"}">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100010113933222{:target="_blank"}">
