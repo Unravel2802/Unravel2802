@@ -7,7 +7,7 @@
 - 📫 How to reach me: hoanglyquoc@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a League of Legends player:D
-
+You can connect with me through: 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -22,5 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 <!--
 **Unravel2802/Unravel2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
