@@ -10,8 +10,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-Label-Color
-<div id="badges">
+<div id="badges" align ="center>
   <a href="https://www.linkedin.com/in/hoang-ly-447180252/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,15 +23,3 @@ Label-Color
 </div>
 <!--
 **Unravel2802/Unravel2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a chatbot that can detect human emotions
-- 🌱 I’m currently learning computer science in Umass Amherst
-- 👯 I’m looking to collaborate on do some researches on AI
-- 🤔 I’m looking for help with machine learning, deep learning, and NLP
-- 💬 Ask me about anything
-- 📫 How to reach me: hoanglyquoc@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm a League of Legends player:D
--->
