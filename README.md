@@ -8,7 +8,6 @@
 - 📫 How to reach me: hoanglyquoc@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a League of Legends player:D
-- :computer: My portfolio website: https://unravel2802.github.io/portfolio_website/
 - You can connect with me through: 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
